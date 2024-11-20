@@ -1,0 +1,12 @@
+cat – Concatenate and display file content.
+less – View file content one page at a time.
+more – View file content one screen at a time.
+head – View the first few lines of a file.
+tail – View the last few lines of a file.
+grep – Search for text patterns in files.
+sed – Stream editor for filtering and transforming text.
+awk – Text processing language for pattern scanning and processing.
+cut – Remove sections from each line of a file.
+sort – Sort lines of text files.
+uniq – Report or omit repeated lines.
+wc – Word, line, character, and byte count.
