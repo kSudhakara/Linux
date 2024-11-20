@@ -1,0 +1,8 @@
+
+mount – Mount a file system.
+umount – Unmount a file system.
+fsck – File system consistency check and repair.
+parted – Partition manipulation.
+fdisk – Partition table manipulator for Linux.
+mkfs – Create a file system.
+tune2fs – Adjust tunable parameters of an ext2/ext3/ext4 file system.
