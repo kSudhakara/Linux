@@ -1,0 +1,6 @@
+
+tar – Archive files.
+gzip – Compress files using the GNU compression algorithm.
+gunzip – Decompress .gz files.
+zip – Package and compress files.
+unzip – Extract .zip archives.
