@@ -1,0 +1,9 @@
+
+ps – Display information about running processes.
+kill – Send a signal to a process (usually to terminate it).
+killall – Kill processes by name.
+bg – Resume a suspended job in the background.
+fg – Bring a background job to the foreground.
+jobs – List active jobs.
+nice – Start a process with a modified scheduling priority.
+renice – Alter the priority of a running process.
