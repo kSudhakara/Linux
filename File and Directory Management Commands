@@ -1,0 +1,13 @@
+ls – List directory contents.
+cd – Change directory.
+pwd – Print working directory.
+mkdir – Create a directory.
+rmdir – Remove an empty directory.
+rm – Remove files or directories.
+touch – Create an empty file or update timestamp of a file.
+cp – Copy files or directories.
+mv – Move or rename files and directories.
+find – Search for files in a directory hierarchy.
+chmod – Change file permissions.
+chown – Change file owner and group.
+ln – Create hard and symbolic links.
