@@ -1,0 +1,5 @@
+
+apt-get – APT package handling utility.
+apt-cache – Query the APT cache.
+dpkg – Debian package manager.
+apt – A more user-friendly front end for apt-get.
