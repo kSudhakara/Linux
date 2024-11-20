@@ -1,0 +1,7 @@
+
+chmod – Change file permissions.
+chown – Change file owner and group.
+chgrp – Change group ownership of a file.
+umask – Set default permissions for files and directories.
+sudo – Execute a command as another user, typically root.
+passwd – Set a user’s password.
