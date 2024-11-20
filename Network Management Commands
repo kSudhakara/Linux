@@ -1,0 +1,9 @@
+ifconfig – Configure network interfaces (deprecated in favor of ip).
+ip – Show/manipulate routing, devices, and tunnels.
+ping – Test network connectivity.
+netstat – Display network connections, routing tables, and interface statistics.
+ss – Utility to investigate sockets.
+traceroute – Trace the route packets take to a network host.
+nslookup – Query DNS to obtain domain name or IP address.
+curl – Transfer data from or to a server using various protocols.
+wget – Download files from the web.
