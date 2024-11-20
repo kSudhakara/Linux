@@ -1,0 +1,8 @@
+whoami – Show the current logged-in user.
+id – Show user and group information.
+useradd – Add a user to the system.
+usermod – Modify a user account.
+userdel – Delete a user account.
+groupadd – Add a new group.
+passwd – Change a user's password.
+chage – Change user password expiry information.
