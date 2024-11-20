@@ -1,0 +1,6 @@
+
+journalctl – Query the systemd journal logs.
+systemctl – Control the systemd system and service manager.
+service – Run a System V init script.
+logger – Make entries in the system log.
+dmesg – Print the kernel ring buffer.
