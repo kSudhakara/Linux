@@ -1,0 +1,11 @@
+top – Task manager that shows CPU and memory usage.
+ps – Display information about active processes.
+df – Display disk space usage.
+du – Estimate file space usage.
+free – Display memory usage.
+uptime – Show how long the system has been running.
+hostname – Display or set the system hostname.
+uname – Print system information.
+lscpu – Display CPU architecture information.
+lsblk – List information about block devices.
+dmesg – Print or control the kernel ring buffer.
